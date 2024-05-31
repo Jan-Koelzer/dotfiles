@@ -2,7 +2,7 @@
 
 ## Prerequisites
 ```
-sudo apt-get install ninja-build gettext cmake unzip curl build-essential python3 python3-venv clang ripgrep
+sudo apt-get install ninja-build gettext cmake unzip curl build-essential python3 python3-venv python3-pip clang ripgrep wget
 ```
 
 ## Build
